@@ -146,7 +146,7 @@ a {
     padding-inline-start: 2rem;
 }
 
-@media (width > 35em) {
+@media (width > 60em) {
     a {
         position: fixed;
         inset: 1rem auto auto 1rem;
